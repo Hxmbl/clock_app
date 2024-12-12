@@ -1,9 +1,3 @@
-<head>
-  <stlye>
-    h6: color= red;
-  </stlye>
-</head>
-
 # clock_app
 
 It's an app, it has a digital clock.
