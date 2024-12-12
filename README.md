@@ -1,16 +1,19 @@
+<head>
+  <stlye>
+    h6: color= red;
+  </stlye>
+</head>
+
 # clock_app
 
-A new Flutter project.
+It's an app, it has a digital clock.
 
-## Getting Started
+# What do I want to do with this app?
 
-This project is a starting point for a Flutter application.
+I basically want a tablet to turn into an Alexa Echo show. Right now, I'm just doing a clock, but maybe I could get blurred backgrounds, weather information, and more.
 
-A few resources to get you started if this is your first Flutter project:
+# Do I know what I'm doing?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+No, help would be appreciated.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h6>AI did help me with this, I am not an experienced programmer</h6>
